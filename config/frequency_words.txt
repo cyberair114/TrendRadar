@@ -32,20 +32,13 @@ ai
 !gai
 人工智能
 
-China
 中国
 
 美国
 日本
 韩国
-
-United States
-US
-
-Japan
-Korea
-Taiwan
-Hong Kong
+香港
+台湾
 
 科技
 
@@ -62,7 +55,6 @@ Hong Kong
 防控
 
 游戏
-video game
 
 冲突
 
